@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Roboto;
+}
+
+input, button {
+  font-family: inherit;
+
+  &:focus {
+    outline: none;
+  }
+}
