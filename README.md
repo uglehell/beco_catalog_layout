@@ -1,4 +1,4 @@
-# Sibdev test task. Part 1
+# BECO Catalog layout
 
 technologies used:
   * PUG index
